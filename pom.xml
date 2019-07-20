@@ -24,7 +24,7 @@
   </distributionManagement>
   
   <properties>
-     <repository.server.root>http://3.14.5.64:8081/repository</repository.server.root>
+     <repository.server.root>http://18.224.151.35:8081/repository</repository.server.root>
      <releases.distribution.url>
         ${repository.server.root}/devops-release/
      </releases.distribution.url>
