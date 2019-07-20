@@ -26,10 +26,10 @@
   <properties>
      <repository.server.root>http://3.14.5.64:8081/repository</repository.server.root>
      <releases.distribution.url>
-        ${repository.server.root}/devops-releases/
+        ${repository.server.root}/devops-release/
      </releases.distribution.url>
      <snapshots.distribution.url>
-        ${repository.server.root}/devops-snapshots/
+        ${repository.server.root}/devops-snapshot/
      </snapshots.distribution.url>
 
   </properties>
